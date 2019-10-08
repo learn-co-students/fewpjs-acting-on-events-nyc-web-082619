@@ -1,5 +1,5 @@
 describe('moveDodgerLeft()', () => {
-  beforeEach(() => {
+  beforeEach(() => { 
     dodger = document.getElementById('dodger')
   })
 
